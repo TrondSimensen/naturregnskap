@@ -1,9 +1,29 @@
-# Arealregnskap for Nordre Follo kommune
+# Arealregnskap for økosystemer
 
 
-Resultater...
-Her kommer kapittelet!
+### Hva er et arealregnskap?
 
-## Endringsanalyser
+Arealregnskap har vært definert på ulike måter i Norge. I en kartlegging av praksis rundt bruk av arealregnskap i kommuneplaner, definerer Rambøll (2020) arealregnskap som et verktøy for å vurdere omfanget av eksisterende og planlagte utbyggingsarealer. Slike arealregnskap kan gjøre det tydeligere for kommunene hvor mye arealer de legger opp til at skal utbygges i årene fremover, og skape en bevissthet om hvilke arealressurser (f.eks. dyrkbar jord) eller områder med naturmangfold som blir borte (Rambøll 2020).  I sin standard for naturregnskap, bruker FN en videre definisjon av arealregnskap enn Rambøll. Her er regnskapet ikke avgren-set utbygging, men til regnskap for den samlede utbredelsen av økosystemer. Arealregnskap for økosystemer inngår her som den mest grunnleggende komponenten i et naturregnskap (Lof et al. 2022).
 
-Endringskart og endringsmatriser
+### Arealregnskap for økosystemer
+
+Et arealregnskap inngår som en av flere komponenter i et naturregnskap. De ulike komponentene i naturregnskapet kan utarbeides som selvstendige produkter, i tillegg til at alle komponenter samles i et konsistent samlet regnskap.
+Et arealregnskap er da en oversikt og en opptelling av arealer og arealandeler for de ulike typene økosystemer i et analyseområde. Hvor mye skog, fjell, våtmark osv. finnes det i analyseområdet?
+
+
+Slik EUROSTAT og FN definerer begrepet er det et viktig poeng at arealregnskapet er romlig og geografisk eksplisitt. Det betyr at arealregnskapet ikke skal være basert på et utvalg punkter eller flater (som f.eks. landsskogtakseringen), men være basert på heldekkende og oppdaterte kart over hele analyseområdet. I arealregnskapet ønsker vi altså å forstå landskapets sammensetning av slike økosystemer og landskapselementer. Dette kaller vi et arealregnskap for økosystemer. Vi lurer på hvordan landskapet har endret seg over tid. Det kan vi kvantifisere gjennom en endringsanalyse. Hvilke typer arealer har det blitt mer av? Hvilke har det blitt mindre av? Har landskapet blitt mer homogent eller mer heterogent?
+
+
+I tillegg til arealregnskapet inneholder naturregnskapet en vurdering av økosystemenes tilstand. Her vurderes økosystemenes strukturer, funksjoner og produktivitet. I en skog vil det for eksempel være stor forskjell på et hogstfelt og en eldre skog med hensyn til karbonbinding og artsmangfold. Med geografiske data kan vi vurdere hvor mye de ulike områdene avviker fra en ønsket tilstand.
+
+
+Til slutt ønsker vi å forstå hvilke goder og tjenester vi får fra økosystemene, slik som grunnleggende tjenester som primærproduksjon og fotosyntese, forsyningstjenester som tømmerproduksjon, reguleringstjenester som flomdemping, karbonlagring, eller kulturelle tjenester som friluftsliv. 
+
+
+### Prinsippene bak et arealregnskap
+
+Her viser vi trinn for trinn hvordan vi lager et arealregnskap, etter FN og EUROSTAT sine prinsipper. Vi bruker et sterkt forenklet eksempel. Det første vi gjør er å definere et kartleggingsområde. Dette kan for eksempel være en kommune eller et fylke. Kartlegging er i sin natur en prosess som handler om forenkling. Kartlegging av økosystemer innebærer i hovedsak to forenklinger. Den første forenklingen er at alle økosystemer som ligner på hverandre blir tilordnet samme type. Her har vi vist et utsnitt av et forenklet typesystem med en inndeling i bebygd areal, åker, eng, skogsmark, osv. Aller helst vil vi bruke et typesystem som gjenspeiler sammensetning av arter og miljøforhold i områdene våre, og de økologiske prosesser som pågår der. 
+
+
+Den andre forenklingen er at vi identifiserer arealene geografisk. Vi kan avgrense hvert område med polygoner, eller som her bruke et rutenett der hver rute – eller hvert piksel – blir tilordnet én type. Så kartlegger vi på et gitt tidspunkt. Da får vi et kart over hovedøkosystemene i kartleggingsområdet.
+
